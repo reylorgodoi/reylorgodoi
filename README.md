@@ -9,7 +9,7 @@ Bem-vindo ao meu cantinho digital! 😄  Sou um estudante de Engenharia de Softw
 * **Backend:** 🧠  Mergulhando no coração das aplicações, aprendendo a construir APIs robustas e eficientes com linguagens como Python e Node.js.  
 
 
-**Em constante desenvolvimento:**  🌱
+**Em constante desenvolvimento**  🌱
 
 **Fique à vontade para:**
 
@@ -17,3 +17,6 @@ Bem-vindo ao meu cantinho digital! 😄  Sou um estudante de Engenharia de Softw
 * Abrir issues para sugestões e feedback. 💬
 * Entrar em contato para conversar sobre tecnologia e outras coisas legais.  🤓
 
+
+https://github.com/reylorgodoi/reylorgodoi/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/reylorgodoi/reylorgodoi/blob/output/github-contribution-grid-snake.gif)
