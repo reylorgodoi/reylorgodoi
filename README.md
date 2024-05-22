@@ -17,6 +17,3 @@ Bem-vindo ao meu cantinho digital! 😄  Sou um estudante de Engenharia de Softw
 * Abrir issues para sugestões e feedback. 💬
 * Entrar em contato para conversar sobre tecnologia e outras coisas legais.  🤓
 
-
-https://github.com/reylorgodoi/reylorgodoi/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/reylorgodoi/reylorgodoi/blob/output/github-contribution-grid-snake.gif)
